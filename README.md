@@ -1,2 +1,2 @@
-# school-resorces
+# html & css
 all text books
